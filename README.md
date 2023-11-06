@@ -1,2 +1,2 @@
-### Hi 👋, I'm Maan Patel
+# Hi 👋, I'm Maan Patel
 
