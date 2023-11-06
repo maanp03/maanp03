@@ -1,6 +1,5 @@
-
-      <h2>Hi 👋, I'm Maan Patel</h2>
-      <ul>
+ ## Hi 👋, I'm Maan Patel</h2> 
+ <ul>
         <li>🔭 I'm currently a Software Engineering Student</li>
         <li>🌱 I'm currently learning React</li>
         <li>💬 Ask me about anything here</li>
