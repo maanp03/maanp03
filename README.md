@@ -3,19 +3,20 @@
 
 ### Welcome to My GitHub Profile! 🌟  
 
-Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with a strong foundation in **Full-Stack Development, Machine Learning, and Cloud Technologies**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**.  
+Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with a strong foundation in **Full-Stack Development, Machine Learning, Cloud Technologies and the Software Development Life Cycle (SDLC)**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**.  
 
 With hands-on experience in **MERN Stack Development, Machine Learning applications, and cloud-based solutions**, I have worked on **web development, AI models, and cloud automation**. I have also contributed as a **Teaching Assistant at Everything AI (8-week program)**, assisting in course development for **Python, Java, and Web Development**.  
 
 <br />
-<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/boy_wave.gif" width="300px">
+
 
 ### 🛠️ Skills & Technologies:  
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Node.js, Express.js, Java (Spring Boot), C#  
 - **Databases:** MongoDB, Firebase, Oracle SQL  
 - **Machine Learning:** Python (Pandas, NumPy, Scikit-Learn), Data Visualization  
-- **Cloud & DevOps:** Core skills in AWS, Azure, CI/CD pipelines  
+- **Cloud & DevOps:** Core skills in AWS, Azure, CI/CD pipelines
+- **Testing & QA:** Selenium, JUnit, debugging, unit testing, and manual testing  
 - **Software Development:** MVC, OOP, RESTful APIs  
 - **Project Experience:** eCommerce Web Apps, ML Applications, Hackathon Projects  
 
@@ -45,8 +46,7 @@ I have a knack for debugging and optimizing code – solving complex problems is
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>  
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>  
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>  
+ <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>  
 </p>  
 
 ---  
