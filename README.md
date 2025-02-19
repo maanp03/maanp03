@@ -8,8 +8,6 @@ Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering T
 With hands-on experience in **MERN Stack Development, Machine Learning applications, and cloud-based solutions**, I have worked on **web development, AI models, and cloud automation**. I have also contributed as a **Teaching Assistant at Everything AI (8-week program)**, assisting in course development for **Python, Java, and Web Development**.  
 
 <br />
-
-
 ### 🛠️ Skills & Technologies:  
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Node.js, Express.js, Java (Spring Boot), C#  
