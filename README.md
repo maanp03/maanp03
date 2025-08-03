@@ -3,10 +3,7 @@
 
 ### Welcome to My GitHub Profile! 🌟  
 
-Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with a strong foundation in **Full-Stack Development, Machine Learning, Cloud Technologies and the Software Development Life Cycle (SDLC)**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**.  
-
-With hands-on experience in **MERN Stack Development, Machine Learning applications, and cloud-based solutions**, I have worked on **web development, AI models, and cloud automation**. I have also contributed as a **Teaching Assistant at Everything AI (8-week program)**, assisting in course development for **Python, Java, and Web Development**.  
-
+Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with a hands-on experience in **Full-Stack Development, Machine Learning, Cloud Technologies and the Software Development Life Cycle (SDLC)**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**. Committed to continuous learning, I am eager to take on new challenges and consistently give my best effort to contribute effectively to any project.
 <br />
 
 ### 🛠️ Skills & Technologies:  
@@ -15,19 +12,17 @@ With hands-on experience in **MERN Stack Development, Machine Learning applicati
 - **Databases:** MongoDB, Firebase, Oracle SQL  
 - **Machine Learning:** Python (Pandas, NumPy, Scikit-Learn), Data Visualization  
 - **Cloud & DevOps:** Core skills in AWS, Azure, CI/CD pipelines
-- **Testing & QA:** Selenium, JUnit, debugging, unit testing, and manual testing  
+- **Testing & QA:** Selenium, JUnit, Manual testing  
 - **Software Development:** MVC, OOP, RESTful APIs  
 - **Project Experience:** eCommerce Web Apps, ML Applications, Hackathon Projects  
 
 ### 🚀 Notable Achievements:  
 - 💪 **Faaams Market:** Developed a **full-stack eCommerce web application** with **JWT authentication** and **REST APIs**  
 - 🏅 **Team Lead at CitroHacks (Books for Humanity):** Built a **book-sharing platform** using **React, Google Books API**  
-- 💡 **Developed ML Models at Healthcare Systems R&A:** Created **data visualization tools and AI models** for healthcare research  
 
 ### 🌱 Currently Learning:  
-- React Native for cross-platform mobile development  
-- Advanced concepts in Machine Learning  
-- DevOps best practices and cloud automation
+- Advanced concepts in AWS
+- Exploring emerging technologies and AI while continuously improving my skills
 
 ### 📈 Fun Fact:  
 I have a knack for debugging and optimizing code – solving complex problems is my idea of fun!  
