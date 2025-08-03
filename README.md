@@ -3,7 +3,7 @@
 
 ### Welcome to My GitHub Profile! 🌟  
 
-Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with a hands-on experience in **Full-Stack Development, Machine Learning, Cloud Technologies and the Software Development Life Cycle (SDLC)**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**. Committed to continuous learning, I am eager to take on new challenges and consistently give my best effort to contribute effectively to any project.
+Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering Technology student** at **Centennial College** with hands-on experience in **Full-Stack Development, Machine Learning, Cloud Technologies and the Software Development Life Cycle (SDLC)**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **React, Java, Node.js, and Spring Boot**. Committed to continuous learning, I am eager to take on new challenges and consistently give my best effort to contribute effectively to any project.
 <br />
 
 ### 🛠️ Skills & Technologies:  
@@ -26,10 +26,6 @@ Hi, I'm **Maan Patel**, a passionate and results-driven **Software Engineering T
 
 ### 📈 Fun Fact:  
 I have a knack for debugging and optimizing code – solving complex problems is my idea of fun!  
-
-### 📊 GitHub Stats:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maanp03)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maanp03&show_icons=true)  
 
 ### 🛠️ Languages and Tools:  
 <p align="left">  
